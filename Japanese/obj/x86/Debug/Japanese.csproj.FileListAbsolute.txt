@@ -1,0 +1,8 @@
+E:\Programming\Projects\Japanese\Japanese\bin\Debug\Japanese.exe
+E:\Programming\Projects\Japanese\Japanese\bin\Debug\Japanese.pdb
+E:\Programming\Projects\Japanese\Japanese\obj\x86\Debug\Japanese.Form1.resources
+E:\Programming\Projects\Japanese\Japanese\obj\x86\Debug\Japanese.Properties.Resources.resources
+E:\Programming\Projects\Japanese\Japanese\obj\x86\Debug\Japanese.csproj.GenerateResource.Cache
+E:\Programming\Projects\Japanese\Japanese\obj\x86\Debug\Japanese.exe
+E:\Programming\Projects\Japanese\Japanese\obj\x86\Debug\Japanese.pdb
+E:\Programming\Projects\Japanese\Japanese\bin\Debug\Japanese.exe.config
